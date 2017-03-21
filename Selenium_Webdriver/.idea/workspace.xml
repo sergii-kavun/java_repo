@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="297d1748-4dc9-4685-8a6f-bfcc47940d4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="Webdriver.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -492,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490131164509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FirstTest draft">
+      <created>1490134378716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490134378716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -562,7 +566,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pom.xml has been changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom.xml has been changed" />
+    <MESSAGE value="FirstTest draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="FirstTest draft" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
