@@ -75,7 +75,7 @@ public class DotCom3 {
         }
         System.out.println(result);  // show the result
 
-        return result;  // return result back to calling method
+        return rt;  // return result back to calling method
     }
 }
 
