@@ -19,18 +19,18 @@ public class EnumAndAnnotation {
     }
 
     // some standrard methods to work with enum
-    DayOfWeek.values(); // returns array of values
-    DayOfWeek.name();   // returns name of selected value
-    DayOfWeek.ordinal();    // return number of element
+    //DayOfWeek.values(); // returns array of values
+    //DayOfWeek.name();   // returns name of selected value
+    //DayOfWeek.ordinal();    // return number of element
 
     // ANNOTATIONS
     // Means that class or method is old and not recommended for usage
-    @Deprecated
+    //@Deprecated
 
     // to ignore some types of warning while compiling
-    @SuppressWarnings("unchecked")
+   // @SuppressWarnings("unchecked")
 
-    @Override
+    //@Override
     // annotation to override methods or inst variables from parents classes
 
     // annotations could be customised and used

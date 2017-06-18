@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
  * Created by vid4i on 21.03.2017.
  */
 public class FirstTest {
+
     @Test
     public void SuccessfulLogin () {
         // Specify setProperty. Its optionally if env variable path is not updated
@@ -28,10 +29,16 @@ public class FirstTest {
         searchButton.click();
 
         // check whether some text is at the page
-        driver.getPageSource().contains("Голос");
         Assert.assertTrue(driver.getPageSource().contains("YouTube"));
 
-        driver.quit();
+        //driver.quit();
+
+        driver.navigate().to("http://yandex.ru");
+        String handle = driver.getWindowHandle();
+
+        driver.navigate().back();
+
+        driver.switchTo().window(handle);
 
     }
 

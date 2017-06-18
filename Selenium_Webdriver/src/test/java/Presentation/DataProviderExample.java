@@ -43,9 +43,9 @@ public class DataProviderExample {
     @DataProvider
     public Object[][] credentialsData() {
         return new Object[][]{
-                {"someincorrectlogin@gmail.com", "correctpass", "There is no such login"}
-                {"correctlogin@gmail.com", "inccorectpass", "Invaid password"}
-        }
+                {"correctlogin@gmail.com", "inccorectpass", "Invaid password"},
+                {"someincorrectlogin@gmail.com", "correctpass", "There is no such login"},
+        };
     }
 
 }
