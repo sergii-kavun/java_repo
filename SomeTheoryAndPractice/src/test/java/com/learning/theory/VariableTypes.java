@@ -1,5 +1,7 @@
 package com.learning.theory;
 
+import org.apache.commons.lang3.StringUtils;
+
 import java.util.Arrays;
 import java.lang.*;
 import javax.xml.*;
@@ -78,5 +80,8 @@ public class VariableTypes {
 
             // Arrays to String
             Arrays.toString(array1);
+
+            // Array of string to one String
+            String words = StringUtils.join(someText, " ");
     }
 }

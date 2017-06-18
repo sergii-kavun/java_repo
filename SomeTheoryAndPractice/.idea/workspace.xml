@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2467465e-96ad-425c-b8e8-7832718d74b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Selenium_Webdriver/target/test-classes/NewTestPackage/FirstTest.class" afterPath="$PROJECT_DIR$/../Selenium_Webdriver/target/test-classes/NewTestPackage/FirstTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Selenium_Webdriver/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Selenium_Webdriver/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Selenium_Webdriver/src/test/java/NewTestPackage/FIrstTest.java" afterPath="$PROJECT_DIR$/../Selenium_Webdriver/src/test/java/NewTestPackage/FIrstTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Selenium_Webdriver/src/test/java/Presentation/DataProviderExample.java" afterPath="$PROJECT_DIR$/../Selenium_Webdriver/src/test/java/Presentation/DataProviderExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/learning/theory/AccessModifiers.java" afterPath="$PROJECT_DIR$/src/test/java/com/learning/theory/AccessModifiers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/learning/theory/EnumAndAnnotation.java" afterPath="$PROJECT_DIR$/src/test/java/com/learning/theory/EnumAndAnnotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java" afterPath="$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java" />
     </list>
     <ignored path="SomeTheoryAndPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VariableTypes.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VariableTypes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1362">
-              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+            <state relative-caret-position="462">
+              <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,14 +70,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Katya.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Katya.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/Katya.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="378">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="e#221#222#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
                 <element signature="e#332#333#0" expanded="true" />
                 <element signature="e#359#360#0" expanded="true" />
                 <element signature="e#385#386#0" expanded="true" />
@@ -124,8 +119,8 @@
       <file leaf-file-name="SergiiAskingToScream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/SergiiAskingToScream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,12 +152,12 @@
         <option value="$PROJECT_DIR$/src/test/java/JavaBasics1.java" />
         <option value="$PROJECT_DIR$/src/test/java/VariableTypes.java" />
         <option value="$PROJECT_DIR$/src/test/java/AccessModifiers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learning/theory/AccessModifiers.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learning/theory/EnumAndAnnotation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/Sergii.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/SergiiAskingToScream.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/Katya.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java" />
       </list>
     </option>
   </component>
@@ -663,16 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1362">
-          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -702,23 +687,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/SergiiAskingToScream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/Katya.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="378">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
             <element signature="e#332#333#0" expanded="true" />
             <element signature="e#359#360#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
@@ -728,6 +704,26 @@
             <element signature="e#522#523#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
             <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/OOPpractice1/SergiiAskingToScream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learning/theory/VariableTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
